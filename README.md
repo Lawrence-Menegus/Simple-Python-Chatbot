@@ -16,9 +16,12 @@ This program stands out as a practical tool for coding enthusiasts, students, an
 
 <p> install the required libraries using pip, Python's package installer. The main libraries you need are openai for accessing OpenAI's API and gradio for the web interface. Run the following command <p> </p>
 
-## pip install openai gradio 
+### "pip install openai gradio"
 
 <p> do this in your terminal for the Python environment</p>
 
 ### Obtain OpenAI API Key
 <p> To use OpenAI's API, you need an API key. If you don't already have one, sign up at OpenAI's website and follow the instructions to obtain your API key. You will need to insert this API key into your code where it says "APi Key" </p>
+
+## Contributor
+<p> Lawrence Menegus </p>
